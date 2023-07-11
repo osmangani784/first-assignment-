@@ -123,3 +123,11 @@
     text-align: center;
     line-height: 30px
 }
+.social{
+    text-align: center;
+    line-height: 30px
+}
+.social-image{
+    display: flex;
+    margin: 35px 0;
+}
