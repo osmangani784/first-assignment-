@@ -1,0 +1,15 @@
+/* .banner{
+    width: 1920px;
+    height: 850px;
+    flex-shrink: 0;
+    background: rgba(229, 84, 115, 0.10);
+    margin: 0%;
+} */
+/* this is universal css */
+*{
+    font-family: lato;
+    font-style: normal;
+    text-align: center;
+    /* background-color: #fff; */
+}
+
