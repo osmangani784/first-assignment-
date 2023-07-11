@@ -131,3 +131,10 @@
     display: flex;
     margin: 35px 0;
 }
+.search{
+    text-align: center;
+}
+    .footer{
+    background-color: #fff;
+    text-align: center;
+}
