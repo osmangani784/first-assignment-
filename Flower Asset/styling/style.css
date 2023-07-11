@@ -112,3 +112,14 @@
 #li3{
     margin-left: 200px;
 }
+.hot-deal{
+    display: flex;
+    align-items: center;
+    background-color: rgba(229, 84, 115, 0.05);
+    margin: 30px 0;
+}
+.hot-deal-text{
+    margin-left: 50px;
+    text-align: center;
+    line-height: 30px
+}
